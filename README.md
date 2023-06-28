@@ -1,0 +1,2 @@
+# manager
+i am manager
